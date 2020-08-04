@@ -1,0 +1,2 @@
+# Customer-Segmentation
+Customer segmentation is a process which allows a business to divide their customer base into specific groups based on similarities such as gender, age, shopping habits, and more. Using machine learning algorithms, I plan to segment customers of a shopping mall in this manner. With segmentation, companies can gain a deeper understanding of their user base and meet the specific needs of those groups
